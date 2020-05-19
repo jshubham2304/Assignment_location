@@ -1,6 +1,12 @@
 # assignment_location
 
 A new Flutter project.
+Feature: 
+  Geo Locator to Calculate the distance between two point for marker
+  Add Marker on mape according to speed of moveable object.
+  Update the Location according to Speed of moveable object.
+  Creating polyline between the starting poistion to current Position.
+  Unit Testing on Functions .
 
 ## Getting Started
 
